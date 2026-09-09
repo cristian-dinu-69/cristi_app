@@ -16,3 +16,5 @@ sns.boxplot(y)
 # # modificare facuta de pe PC - ultima 
 
 asta la vista baby
+
+asta la VISTAAAAA
