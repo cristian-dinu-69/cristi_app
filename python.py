@@ -12,3 +12,7 @@ plt.bar(x)
 # modificare facuta de pe MAC
 import seaborn as sns
 sns.boxplot(y)
+
+# # modificare facuta de pe PC - ultima 
+
+asta la vista baby
