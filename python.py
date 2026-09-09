@@ -8,3 +8,7 @@ print("JJJJJ")
 
 import matplotlib.pyplot
 plt.bar(x)
+
+# modificare facuta de pe MAC
+import seaborn as sns
+sns.boxplot(y)
